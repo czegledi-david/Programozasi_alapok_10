@@ -2,21 +2,7 @@
 if feltetel:
     utasítások -> Ezt akkor futattja ha a feltetel igaz
 else:
-    utasítások  -> Ezt akkor futattja ha a feltetel hamis
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
+    utasítások  -> Ezt akkor futattja ha a feltetel hamis  
 """
 
 if 5 == 6:
