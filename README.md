@@ -21,9 +21,9 @@
             <td><a href="https://github.com/czegledi-david/Programozasi_alapok_10/blob/66596bf35da9a1ba43d9515ff9f9eae581a25676/2.alkalom/valtozok.pdf">Jegyzet</a> | <a href="https://github.com/czegledi-david/Programozasi_alapok_10/blob/66596bf35da9a1ba43d9515ff9f9eae581a25676/2.alkalom/valtozok.py">Kód</a></td>
         </tr>
         <tr>
-            <td>4.</td>
+            <td>3.</td>
             <td>Operátorok és az IF szerkezet</td>
-            <td>Jegyzet | Kód</td>
+            <td><a href="https://github.com/czegledi-david/Programozasi_alapok_10/blob/e03dab14dd738ba9bf432b9eed9ae9604b12f3ea/3.alkalom/Oper%C3%A1torok.pdf">Jegyzet</a> | <a href="https://github.com/czegledi-david/Programozasi_alapok_10/blob/e03dab14dd738ba9bf432b9eed9ae9604b12f3ea/3.alkalom/IF%20szerkezet%20%C3%A9s%20oper%C3%A1torok.py">Kód</a></td>
         </tr>
         <tr>
             <td>5.</td>
