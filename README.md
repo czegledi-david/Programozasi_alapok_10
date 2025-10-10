@@ -27,8 +27,8 @@
         </tr>
         <tr>
             <td>5.</td>
-            <td></td>
-            <td></td>
+            <td>Random szám és while ciklus</td>
+            <td><a href="https://github.com/czegledi-david/Programozasi_alapok_10/blob/6cc4bc3e7624f49dbdae3f3ee769bf8b5304d2e5/4.alkalom/Random%20sz%C3%A1mok%20gener%C3%A1l%C3%A1sa%20%C3%A9s%20ciklusok.pdf">Jegyzet</a> | <a href="https://github.com/czegledi-david/Programozasi_alapok_10/blob/6cc4bc3e7624f49dbdae3f3ee769bf8b5304d2e5/4.alkalom/teszt.py">Kód</a></td>
         </tr>
         <tr>
             <td>6.</td>
