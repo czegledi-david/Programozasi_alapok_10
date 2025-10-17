@@ -26,9 +26,14 @@
             <td><a href="https://github.com/czegledi-david/Programozasi_alapok_10/blob/e03dab14dd738ba9bf432b9eed9ae9604b12f3ea/3.alkalom/Oper%C3%A1torok.pdf">Jegyzet</a> | <a href="https://github.com/czegledi-david/Programozasi_alapok_10/blob/e03dab14dd738ba9bf432b9eed9ae9604b12f3ea/3.alkalom/IF%20szerkezet%20%C3%A9s%20oper%C3%A1torok.py">Kód</a></td>
         </tr>
         <tr>
-            <td>5.</td>
+            <td>4.</td>
             <td>Random szám és while ciklus</td>
             <td><a href="https://github.com/czegledi-david/Programozasi_alapok_10/blob/6cc4bc3e7624f49dbdae3f3ee769bf8b5304d2e5/4.alkalom/Random%20sz%C3%A1mok%20gener%C3%A1l%C3%A1sa%20%C3%A9s%20ciklusok.pdf">Jegyzet</a> | <a href="https://github.com/czegledi-david/Programozasi_alapok_10/blob/6cc4bc3e7624f49dbdae3f3ee769bf8b5304d2e5/4.alkalom/teszt.py">Kód</a></td>
+        </tr>
+        <tr>
+            <td>5.</td>
+            <td>Dolgozat</td>
+            <td><a href="https://github.com/czegledi-david/Programozasi_alapok_10/blob/e817502356126d997b803e1e5ec51a227a01034f/5.alkalom/Python%20elm%C3%A9leti%20dolgozat%20I%20-megoldas.pdf">Feladatlap</a> | <a href="https://github.com/czegledi-david/Programozasi_alapok_10/blob/e817502356126d997b803e1e5ec51a227a01034f/5.alkalom/10a%20megoldas.py">Megoldás</a></td>
         </tr>
         <tr>
             <td>6.</td>
@@ -47,11 +52,6 @@
         </tr>
         <tr>
             <td>9.</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>10.</td>
             <td></td>
             <td></td>
         </tr>
